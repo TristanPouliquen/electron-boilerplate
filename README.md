@@ -81,5 +81,5 @@ Here is the result under Windows!
 
 ## Team
 
-  * Tristan Pouliquen (Developer - tristanp@theodo.fr)
+  * Tristan Pouliquen (Developer - tristan.pouliquen@yahoo.fr)
   * Vincent Quagliaro (Developer - vincentq@theodo.fr)
